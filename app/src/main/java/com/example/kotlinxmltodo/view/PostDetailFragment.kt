@@ -9,6 +9,7 @@ import com.example.kotlinxmltodo.databinding.FragmentPostDetailBinding
 import com.example.kotlinxmltodo.model.data.Post
 
 // TODO: Rename parameter arguments, choose names that match
+//TODO fix the crash preventing to start the fragment
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
 private const val ARG_PARAM1 = "param1"
 
